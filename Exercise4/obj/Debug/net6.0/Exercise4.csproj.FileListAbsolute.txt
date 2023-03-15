@@ -1,0 +1,15 @@
+C:\Users\tan01\Documents\Ki8\PRU221m\Exercise\Exercise4\Exercise4\bin\Debug\net6.0\Exercise4.exe
+C:\Users\tan01\Documents\Ki8\PRU221m\Exercise\Exercise4\Exercise4\bin\Debug\net6.0\Exercise4.deps.json
+C:\Users\tan01\Documents\Ki8\PRU221m\Exercise\Exercise4\Exercise4\bin\Debug\net6.0\Exercise4.runtimeconfig.json
+C:\Users\tan01\Documents\Ki8\PRU221m\Exercise\Exercise4\Exercise4\bin\Debug\net6.0\Exercise4.dll
+C:\Users\tan01\Documents\Ki8\PRU221m\Exercise\Exercise4\Exercise4\bin\Debug\net6.0\Exercise4.pdb
+C:\Users\tan01\Documents\Ki8\PRU221m\Exercise\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.csproj.AssemblyReference.cache
+C:\Users\tan01\Documents\Ki8\PRU221m\Exercise\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tan01\Documents\Ki8\PRU221m\Exercise\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.AssemblyInfoInputs.cache
+C:\Users\tan01\Documents\Ki8\PRU221m\Exercise\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.AssemblyInfo.cs
+C:\Users\tan01\Documents\Ki8\PRU221m\Exercise\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\tan01\Documents\Ki8\PRU221m\Exercise\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.dll
+C:\Users\tan01\Documents\Ki8\PRU221m\Exercise\Exercise4\Exercise4\obj\Debug\net6.0\refint\Exercise4.dll
+C:\Users\tan01\Documents\Ki8\PRU221m\Exercise\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.pdb
+C:\Users\tan01\Documents\Ki8\PRU221m\Exercise\Exercise4\Exercise4\obj\Debug\net6.0\Exercise4.genruntimeconfig.cache
+C:\Users\tan01\Documents\Ki8\PRU221m\Exercise\Exercise4\Exercise4\obj\Debug\net6.0\ref\Exercise4.dll
